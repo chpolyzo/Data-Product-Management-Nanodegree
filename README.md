@@ -11,7 +11,7 @@ The solution provided has been thoight in the context of [Lower Manhattan Coasta
 
 ![Lower Manhattan Resiliency](https://github.com/chpolyzo/Data-Product-Management-Nanodegree/blob/master/Lower_Manhattan_Climate_Resilience_cover.png?style=centerme)
 
-In the Power Point Presentation flyber-mpv-launch-strategy-proposal.ppx are collected all findings after analyzing data provided in the notebooks in this repository.
+In the Power Point Presentation flyber-mpv-launch-strategy-proposal.ppx are collected all findings after analyzing data provided in the notebooks found in this repository.
 
 This study’s findings demonstrate a need to protect the District comprehensively from a wide range of climate hazards – not only low frequency, extreme events, but also high frequency, lower intensity events and chronic conditions.
 
